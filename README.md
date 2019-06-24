@@ -1,3 +1,3 @@
 # Loan-Prediction-practice-problem-AnalyticsVidhya
 
-Code for hackathon with ROC Accuracy 74%
+Python Code for Analytic Vidhya Loan Prediction data hackathon.I was able to solve this problem with ROC Accuracy 74%.
